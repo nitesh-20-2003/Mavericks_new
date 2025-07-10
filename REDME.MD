@@ -27,8 +27,8 @@
 - ![HigherLevelDesign](./ScreenShots/HigherLevel.jpeg)
 - ![HowModelWorksWhenFrameSentFromFrontend](./ScreenShots/mediapipetocnn.jpeg)
 ## 📸 Screenshots
-- ![Avatar](./ScreenShots/Avatar.jpeg)
-- ![Dictionary](./ScreenShots/Dictionary.jpeg)
-- ![Real_Time_Detection](./ScreenShots//Real_Time_Detection.jpeg)
-- ![Dataset](./ScreenShots/Dataset.jpeg)
-- ![Home](./ScreenShots/Home.jpeg)
+- ![Avatar](./ScreenShots/Avatar.png)
+- ![Dictionary](./ScreenShots/Dictionary.png)
+- ![Real_Time_Detection](./ScreenShots//Real_Time_Detection.png)
+- ![Dataset](./ScreenShots/Dataset.png)
+- ![Home](./ScreenShots/Home.png)
