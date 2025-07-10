@@ -24,3 +24,11 @@
 
 ## An Higher Level Design of how Mavericks works
 - ![Mavericks](./ScreenShots/MavericksUml.jpeg)
+- ![HigherLevelDesign](./ScreenShots/HigherLevel.jpeg)
+- ![HowModelWorksWhenFrameSentFromFrontend](./ScreenShots/mediapipetocnn.jpeg)
+## 📸 Screenshots
+- ![Avatar](./ScreenShots/Avatar.png)
+- ![Dictionary](./ScreenShots/Dictionary.png)
+- ![Real_Time_Detection](./ScreenShots//Real_Time_Detection.png)
+- ![Dataset](./ScreenShots/Dataset.png)
+- ![Home](./ScreenShots/Home.png)
