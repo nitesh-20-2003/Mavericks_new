@@ -5,7 +5,7 @@
 
 - For Live Demo please refer to: [youtube demo](https://www.youtube.com/watch?v=l_CLHfjUHV0)
 
-## 🛠️ My Responsibilities
+## 🛠️ My Responsibilities (Nitesh Sharma)
 
 - Developed the **frontend** using **React.js**, **Tailwind CSS**, and **Styled Components**, focusing on clean, reusable, and maintainable code.
 - Implemented **JWT-based user authentication** and handled **routing** in both the **Express.js server** and the **React.js application**.
