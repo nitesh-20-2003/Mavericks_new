@@ -5,6 +5,16 @@
 
 - For Live Demo please refer to: [youtube demo](https://www.youtube.com/watch?v=l_CLHfjUHV0)
 
+## 🛠️ My Responsibilities
+
+- Developed the **frontend** using **React.js**, **Tailwind CSS**, and **Styled Components**, focusing on clean, reusable, and maintainable code.
+- Implemented **JWT-based user authentication** and handled **routing** in both the **Express.js server** and the **React.js application**.
+- Designed and developed the **data pipeline** that manages how individual frames travel from the frontend to the backend using **Socket.IO**, ensuring real-time processing.
+- Optimized performance by implementing **parallel processing** across multiple servers, reducing latency and increasing accuracy by sending individual frames at **1.3-second intervals**.
+- Contributed to the creation and curation of the **dataset** used for training the machine learning model.
+- how much time an simple request for 8sec video take when using simple post requerst
+- ![Video](./ScreenShots/timeReducedsimplepostrequest.jpeg)
+
 ## 🚀 Features
 
 - 📂 **Crowdsourced Dataset Building**  
@@ -32,3 +42,5 @@
 - ![Real_Time_Detection](./ScreenShots//Real_Time_Detection.png)
 - ![Dataset](./ScreenShots/Dataset.png)
 - ![Home](./ScreenShots/Home.png)
+
+
