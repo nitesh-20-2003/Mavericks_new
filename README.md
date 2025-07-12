@@ -4,6 +4,7 @@
 - For source code please refer to: [Original Mavericks Repo](https://github.com/nitesh-20-2003/Mavericks_gui)
 
 - For Live Demo please refer to: [youtube demo](https://www.youtube.com/watch?v=l_CLHfjUHV0)
+- For Live Website demo please refer to: [live website ](https://maverick-client-ajot.vercel.app/)
 
 ## 🛠️ My Responsibilities (Nitesh Sharma)
 
